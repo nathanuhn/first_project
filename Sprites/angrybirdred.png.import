@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/a5ae11de9f6bfa0376e2421ff0bc890f.jpg-ba400235db1307134f0da9bcc851352e.stex"
+path="res://.import/angrybirdred.png-eb01d4367a9b8fe63141bad0ae6b8ddb.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://a5ae11de9f6bfa0376e2421ff0bc890f.jpg"
-dest_files=[ "res://.import/a5ae11de9f6bfa0376e2421ff0bc890f.jpg-ba400235db1307134f0da9bcc851352e.stex" ]
+source_file="res://Sprites/angrybirdred.png"
+dest_files=[ "res://.import/angrybirdred.png-eb01d4367a9b8fe63141bad0ae6b8ddb.stex" ]
 
 [params]
 

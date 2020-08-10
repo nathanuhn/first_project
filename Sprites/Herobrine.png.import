@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/angrybirdred.png-7c03d00fccaff4c8dd40029a2a89b1c7.stex"
+path="res://.import/Herobrine.png-7ec6827fd678612d3a308f4a5f1c4be1.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://angrybirdred.png"
-dest_files=[ "res://.import/angrybirdred.png-7c03d00fccaff4c8dd40029a2a89b1c7.stex" ]
+source_file="res://Sprites/Herobrine.png"
+dest_files=[ "res://.import/Herobrine.png-7ec6827fd678612d3a308f4a5f1c4be1.stex" ]
 
 [params]
 
