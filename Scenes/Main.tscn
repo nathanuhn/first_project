@@ -2750,4 +2750,7 @@ position = Vector2( 550.49, 505.26 )
 scale = Vector2( 4.03333, -1.60304 )
 
 [node name="Player" parent="." instance=ExtResource( 3 )]
-position = Vector2( 981, 319 )
+position = Vector2( 37, 104 )
+gravity = Vector2( 0, 50 )
+jump_speed = Vector2( 0, -1500 )
+move_speed = Vector2( -500, 0 )
