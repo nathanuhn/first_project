@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/a5ae11de9f6bfa0376e2421ff0bc890f.jpg-99793c03420c1c038a9a46bb1e33c31e.stex"
+path="res://.import/-41601313914ox6c3d6e4n.png-d0ec71bb0762a318efecdf301af015fe.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/a5ae11de9f6bfa0376e2421ff0bc890f.jpg"
-dest_files=[ "res://.import/a5ae11de9f6bfa0376e2421ff0bc890f.jpg-99793c03420c1c038a9a46bb1e33c31e.stex" ]
+source_file="res://Sprites/-41601313914ox6c3d6e4n.png"
+dest_files=[ "res://.import/-41601313914ox6c3d6e4n.png-d0ec71bb0762a318efecdf301af015fe.stex" ]
 
 [params]
 
@@ -19,7 +19,7 @@ compress/lossy_quality=0.7
 compress/hdr_mode=0
 compress/bptc_ldr=0
 compress/normal_map=0
-flags/repeat=1
+flags/repeat=0
 flags/filter=true
 flags/mipmaps=false
 flags/anisotropic=false
